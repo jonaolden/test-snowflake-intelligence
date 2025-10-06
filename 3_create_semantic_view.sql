@@ -1,3 +1,7 @@
+
+CALL SYSTEM$CREATE_SEMANTIC_VIEW_FROM_YAML(
+    'dash_db_si.hotel',
+  $$
 name: HOTEL_SEMANTIC_VIEW
 description: |-
   A hospitality operations and finance semantic model that links hotels,
@@ -9,7 +13,7 @@ tables:
     description: The amenity table lists services or features available for accommodations, with each record containing an amenity_id, the amenity name, a price_per_night, and a flag indicating whether the amenity is included in the base rate.
     base_table:
       database: DASH_DB_SI
-      schema: HOTEL
+      schema: PUBLIC
       table: AMENITY
     dimensions:
       - name: INCLUDED
@@ -26,7 +30,7 @@ tables:
         expr: AMENITY_ID
         data_type: NUMBER(38,0)
         access_modifier: public_access
-      - name: PRICE_PER_NIGHT
+      - name: price_per_night
         description: The nightly fee charged to guests for use or rental of the amenity, representing the revenue earned per night from that amenity.
         expr: PRICE_PER_NIGHT
         data_type: NUMBER(38,2)
@@ -548,3 +552,6 @@ verified_queries:
     use_as_onboarding_question: false
     verified_by: Jonatan Oldenburg
     verified_at: 1759396640
+  $$
+);
+
