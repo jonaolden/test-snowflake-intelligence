@@ -1,0 +1,51 @@
+staff_id,hotel_id,full_name,role,hire_date,salary
+8000,100,Melissa Price,concierge,2016-08-03,46452.0
+8001,100,Derrick Walker,housekeeping,2017-07-11,40276.0
+8002,100,Tammy Romero,maintenance,2021-06-06,43689.0
+8003,102,Vanessa Aguilar,maintenance,2018-08-19,36739.0
+8004,102,Daniel Mccoy,chef,2020-06-15,52799.0
+8005,100,Erika Horn,housekeeping,2020-04-30,41536.0
+8006,102,Mr. Jason Bowers,manager,2024-12-12,85552.0
+8007,100,Martin Schmidt,maintenance,2024-04-25,45178.0
+8008,102,Johnny Moyer,manager,2024-07-09,98945.0
+8009,101,Raymond Mitchell,housekeeping,2016-09-30,33312.0
+8010,101,Kelly Stanton,concierge,2025-09-25,42754.0
+8011,100,Deborah Griffith,housekeeping,2016-08-24,35492.0
+8012,102,Mr. Benjamin Obrien PhD,concierge,2016-03-29,40033.0
+8013,100,Crystal Cole,maintenance,2018-03-05,38488.0
+8014,100,Teresa Carr,maintenance,2021-05-05,44011.0
+8015,102,Taylor Bates,maintenance,2024-04-18,33395.0
+8016,102,Elizabeth Kelley,housekeeping,2022-03-16,35269.0
+8017,100,Mr. Thomas Paul Jr.,housekeeping,2023-01-26,34963.0
+8018,102,John Banks,chef,2024-09-25,55755.0
+8019,102,Kristen Duncan,housekeeping,2019-08-26,25071.0
+8020,102,James Reyes,front_desk,2019-11-16,33916.0
+8021,102,Mathew Jones,front_desk,2019-12-21,32712.0
+8022,100,Julie Elliott,concierge,2021-09-08,52218.0
+8023,100,Brandy Torres,housekeeping,2019-07-19,23546.0
+8024,101,Scott Smith,manager,2025-10-05,92271.0
+8025,101,Deborah Smith,housekeeping,2019-03-05,35877.0
+8026,102,Martha Shepard,front_desk,2021-03-06,33237.0
+8027,100,David Irwin,manager,2024-12-03,90440.0
+8028,101,Laura Rowe,manager,2016-04-18,87280.0
+8029,101,Jermaine Harrison,chef,2024-06-08,60980.0
+8030,101,Robert Logan,manager,2024-04-14,86821.0
+8031,100,Jon Sawyer,manager,2020-08-03,99121.0
+8032,102,Julia Copeland,chef,2020-06-21,53371.0
+8033,100,Zachary Collins,concierge,2016-06-28,40534.0
+8034,102,Vanessa Terrell,concierge,2015-11-26,41520.0
+8035,101,Susan Lewis,manager,2022-09-30,87564.0
+8036,101,Angel Simmons,chef,2023-02-13,51778.0
+8037,100,Ashley Hopkins,maintenance,2021-12-11,44570.0
+8038,101,David Shaw,manager,2016-10-20,101329.0
+8039,102,Nicole Perez,manager,2019-12-09,99275.0
+8040,102,Joshua Zimmerman,maintenance,2024-05-31,35404.0
+8041,100,Melissa Roberts,maintenance,2022-04-19,43574.0
+8042,101,Hannah Harris,manager,2023-04-10,89285.0
+8043,100,Austin Lewis,front_desk,2020-09-07,43490.0
+8044,102,Kristen Alexander,maintenance,2016-02-03,40178.0
+8045,101,Glen Byrd,housekeeping,2020-06-01,26121.0
+8046,100,Sheila Smith,maintenance,2021-05-03,52801.0
+8047,102,Eric Richards,chef,2018-12-08,52917.0
+8048,100,Michelle Thompson,chef,2021-07-24,47179.0
+8049,100,Maria Mitchell,manager,2023-06-18,99212.0
